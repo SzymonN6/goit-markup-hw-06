@@ -522,7 +522,7 @@ ul {
 .modal-form-label-text:checked {
   background-color: var(--brand-color);
   border: none;
-  background-image: url(../Images/vector.svg);
+  background-image: url(/Images/vector.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
